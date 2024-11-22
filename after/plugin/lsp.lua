@@ -8,6 +8,7 @@ lsp.ensure_installed({
   'html',
   'cssls',
   'eslint',
+  'ts_ls',
   'intelephense',
   'rust_analyzer',
 })
